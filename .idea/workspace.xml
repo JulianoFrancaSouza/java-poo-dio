@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63ee0270-ce05-4381-adee-710649fee988" name="Changes" comment="primeiro commit">
-      <change afterPath="$PROJECT_DIR$/src/me/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/dio/desafio/dominio/Mentoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/me/dio/desafio/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-poo-dio/me/dio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-poo-dio/me/dio/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-poo-dio/me/dio/desafio/dominio/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-poo-dio/me/dio/desafio/dominio/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-poo-dio/me/dio/desafio/dominio/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-poo-dio/me/dio/desafio/dominio/Mentoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
